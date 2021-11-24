@@ -1,4 +1,4 @@
-This project aims to detect cracks in concrete and  deploy it on aground robot or drone
+This project aims to detect cracks in concrete and  deploy it on a ground robot or drone
 ##########Instructions##############
 # Concrete-Image-Processing-
 
